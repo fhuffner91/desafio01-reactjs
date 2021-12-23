@@ -1,8 +1,6 @@
 # Desafio01ReactJsIgnite
 
-
-
-<h1>Desafio do Chapter 01:<h1>
+<h1>Desafio do Chapter 01:</h1>
 
 
 
@@ -19,10 +17,15 @@
 
 <h1>Para Rodar o Projeto</h1>
 <p>Modo Desenvolvedor</p>
-```yarn dev
+
+
+```yarn dev```
+
+
 
 <p>Modo Produção</p>
-```yarn Build
+
+```yarn Build```
 
 
 
